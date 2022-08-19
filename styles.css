@@ -151,3 +151,6 @@ p{
     margin: 20px 10px;
     
 }
+.navbar-dark, .navbar-expand-lg{
+    display: flex;
+}
